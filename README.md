@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/AdminDevelopment/android-architecture.png?label=ready&title=Ready)](https://waffle.io/AdminDevelopment/android-architecture)
 # Android Architecture Blueprints [beta]
 
 <img src="https://github.com/googlesamples/android-architecture/wiki/images/aab-logo.png" alt="Android Architecture Blueprints"/>
